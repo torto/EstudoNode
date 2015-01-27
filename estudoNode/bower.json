@@ -1,0 +1,21 @@
+{
+  "name": "estudoNode",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tortoyoyo/EstudoNode",
+  "authors": [
+    "Guilherme Berghauser <tortoyoyo@gmail.com>"
+  ],
+  "description": "Estudo de node",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.11",
+    "angular-route": "~1.3.11"
+  }
+}
